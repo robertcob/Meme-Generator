@@ -26,3 +26,14 @@ Next navigate to line 39 and 40 in Meme.js of the cloned project.
 
 Replace the stars in this lines of code with your username and password.
 
+### Walkthrough
+
+The initial page is where you are able to skip though different images, and add labels.
+
+![showcase_Image_1](image_Assets/meme_Gen.PNG)
+
+When an image is generated, you are able to share the url of the image by clicking *Copy Link* otherwise you can create other images by clicking *More Memes?*.
+
+![showcase_Image_2](image_Assets/meme_Gen2.PNG)
+
+
